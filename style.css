@@ -93,3 +93,20 @@
     font-family: 'Inknut Antiqua', serif;
 
 }
+
+.estudantes-um-imagem{
+    width: 120px;
+}
+
+.estudante-ícone{
+    width: 24px;
+}
+
+.estudantes{
+    background-color: black;
+    color: white;
+}
+
+.estudantes-div{
+    text-align: center;
+}

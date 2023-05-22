@@ -39,7 +39,7 @@
 .escola-div-conteúdo{
     width: 35%;
     font-family: 'Inter', sans-serif;
-
+    margin: 1%;
 }
 
 .escola-título{
@@ -64,7 +64,7 @@
 .emílio-div-conteúdo{
     width: 35%;
     font-family: 'Inter', sans-serif;
-
+    margin: 1%;
 }
 
 .emílio-título{
@@ -83,23 +83,19 @@
 }
 
 .aluno-div-conteúdo{
-    width: 60%;
+    width: 35%;
     font-family: 'Inter', sans-serif;
+    margin: 1%;
 
 }
 
 .aluno-título{
     padding: 24px 0;
     font-family: 'Inknut Antiqua', serif;
-
 }
 
-.estudantes-um-imagem{
-    width: 120px;
-}
-
-.estudante-ícone{
-    width: 24px;
+.aluno-imagem{
+    width: 25%;
 }
 
 .estudantes{
@@ -107,23 +103,130 @@
     color: white;
 }
 
-.estudantes-div{
-    text-align: center;
-font-family: 'Poppins', sans-serif;
-}
 .estudantes-um-título{
     text-align: center;
     padding: 50px 0;
 }
-.estudantes-todos{
-    display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
+
+.eduardo{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 24px 0;
+}
+
+.eduardo-título{
+    padding: 24px 0;
+    font-family: 'Inknut Antiqua', serif;
+
+}
+
+.eduardo-imagem{
+    width: 25%;
+}
+
+.eduardo-ícone{
+    width: 24px;
+}
+
+
+.eduardo-div{
+    width: 35%;
+    font-family: 'Inter', sans-serif;
+    margin: 1%;
+}
+
+.goulart{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 24px 0;
+}
+
+.goulart-título{
+    padding: 24px 0;
+    font-family: 'Inknut Antiqua', serif;
+
+}
+
+.goulart-imagem{
+    width: 25%;
+}
+
+.goulart-ícone{
+    width: 24px;
+}
+
+
+.goulart-div{
+    width: 35%;
+    font-family: 'Inter', sans-serif;
+    margin: 1%;
+}
+
+.oliveira{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 24px 0;
+}
+
+.oliveira-título{
+    padding: 24px 0;
+    font-family: 'Inknut Antiqua', serif;
+
+}
+
+.oliveira-imagem{
+    width: 25%;
+}
+
+.oliveira-ícone{
+    width: 24px;
+}
+
+
+.oliveira-div{
+    width: 35%;
+    font-family: 'Inter', sans-serif;
+    margin: 1%;
+}
+
+.gabriel{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 24px 0;
+}
+
+.gabriel-título{
+    padding: 24px 0;
+    font-family: 'Inknut Antiqua', serif;
+
+}
+
+.gabriel-imagem{
+    width: 25%;
+}
+
+.gabriel-ícone{
+    width: 24px;
+}
+
+
+.gabriel-div{
+    width: 35%;
+    font-family: 'Inter', sans-serif;
+    margin: 1%;
 }
 
 .rodape{
     background-color: black;
     text-align: center;
-    padding: 0 30px;
 }
 
 .rodape-imagem{
